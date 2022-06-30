@@ -1,5 +1,5 @@
 @charset "utf-8";
 
-.center {
+.center p, a, div, span {
   text-align: center;
 }
