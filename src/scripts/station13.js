@@ -3,6 +3,6 @@ function changeBackgroundColor(e) {
   if (check.checked) {
     document.body.style.backgroundColor = "#ff0000";
   } else {
-    document.body.style.backgroundColor = "";
+    document.body.style.backgroundColor = "#ffffff";
   }
 }
